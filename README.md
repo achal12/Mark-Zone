@@ -6,7 +6,8 @@
 # ScreenShots
 <p>&nbsp;</p>
 
-![ss1](https://user-images.githubusercontent.com/68753421/129788991-d11f44c0-dab4-4912-8214-495d9f992a62.png)
+![ss1](https://user-images.githubusercontent.com/68753421/129789313-f035a573-5f81-45bd-a818-833e17479a9c.png)
+
 
 
 
